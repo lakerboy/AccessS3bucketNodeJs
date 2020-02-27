@@ -1,0 +1,8 @@
+{
+  "aws": {
+    "AWS_ACCESS_KEY": "AKIAZPMO6AFX2HBGC2CV",
+    "AWS_SECRET_ACCESS_KEY": "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",
+    "REGION": "us-west-2",
+    "Bucket": "vgbuckettest"
+  }
+}
